@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\NirmalRaj\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Android Apps\Modified Bluetooth\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-400d5707da2cd9c5139a9cf384b1bb3e3c6e78cd.jar" />
+    </item>
+    <item
+        jar="E:\Android Apps\Modified Bluetooth\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Android Apps\Modified Bluetooth\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-4f9939f5856ccc781895002da368e216215efaa2.jar" />
+    </item>
+    <item
+        jar="E:\Android Apps\Modified Bluetooth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Android Apps\Modified Bluetooth\app\build\intermediates\pre-dexed\debug\classes-ec6e6b99edccb0c57b26ea47c01776a7c5c2a9b5.jar" />
+    </item>
+    <item
+        jar="E:\Android Apps\Modified Bluetooth\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Android Apps\Modified Bluetooth\app\build\intermediates\pre-dexed\debug\classes-1d9d75f36bae8dabf9adca0c7f722dc7eb78df0b.jar" />
+    </item>
+
+</items>
