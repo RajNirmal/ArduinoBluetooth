@@ -7,5 +7,6 @@ Home automation app that allows the user to control relay switches via bluetooth
 
 
 # Pics of the Hardware module
-[Pic 1](https://i.imgur.com/WvjtFNI.jpg)
-[Pic 2](https://i.imgur.com/H1hMHRa.jpg)
+<img src =https://i.imgur.com/WvjtFNI.jpg height = 500 width = 250>
+<br>
+<img src = https://i.imgur.com/H1hMHRa.jpg height = 500 width = 250>  
